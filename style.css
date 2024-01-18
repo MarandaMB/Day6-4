@@ -1,0 +1,110 @@
+#yellowbus {
+  height: 250px;
+  width: 600px;
+  background-color: rgb(238, 238, 14);
+  position: absolute;
+  top: 75px;
+  left: 400px;
+  border-radius: 5%;
+  position: relative;
+  border: 3px solid black;
+}
+.wheels {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: 210px;
+}
+#wheel1 {
+  position: absolute;
+  left: 450px;
+}
+#wheel2 {
+  position: absolute;
+  left: 50px;
+}
+#line {
+  position: absolute;
+  top: 55%;
+  width: 100%;
+  height: 5px;
+  background-color: black;
+}
+.window {
+  height: 75px;
+  width: 75px;
+  background-color: aliceblue;
+  position: absolute;
+  top: 50px;
+  border: black 2px solid;
+}
+#w3 {
+  position: absolute;
+  left: 500px;
+}
+#w2 {
+  position: absolute;
+  left: 250px;
+}
+#w1 {
+  position: absolute;
+  left: 25px;
+}
+.hbar {
+  height: 10px;
+  width: 75px;
+  background-color: black;
+  position: absolute;
+  top: 45%;
+}
+.vbar {
+  height: 75px;
+  width: 10px;
+  background-color: black;
+  position: absolute;
+  left: 45%;
+}
+
+.buttons {
+  height: 50px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+  position: relative;
+  top: 500px;
+  border-radius: 5%;
+}
+#b1 {
+  position: absolute;
+  left: 420px;
+}
+#b2 {
+  position: absolute;
+  left: 650px;
+}
+#b3 {
+  position: absolute;
+  left: 900px;
+}
+a {
+  color: white;
+  text-align: center;
+}
+img {
+  height: 400px;
+  width: 600px;
+  position: absolute;
+  top: 50px;
+  left: 300px;
+}
+h2 {
+  text-transform: uppercase;
+  position: absolute;
+  top: 500px;
+  left: 525px;
+}
+h1 {
+  text-align: center;
+}
